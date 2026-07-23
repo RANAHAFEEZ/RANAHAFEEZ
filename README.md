@@ -23,11 +23,11 @@ I am a Qatar-based Senior Android Developer with **6+ years of experience** in d
 
 | Category | Tech Stack |
 | :--- | :--- |
-| **Languages** | Kotlin, Java, XML, C++, GraphQL, JSON, HTML, MySQL |
+| **Languages** | Python, Kotlin, Java, XML, C++, GraphQL, JSON, HTML, MySQL |
 | **Architecture** | MVVM, Clean Architecture, Jetpack Compose, MVC, LiveData |
 | **DI & Reactive** | Hilt, Dagger2, RxJava |
 | **DB & Network** | Room Database, Retrofit, Volley, RESTful APIs |
-| **Tools & Cloud** | Android Studio, Play Console, Firebase (Crashlytics, Analytics), Git/GitHub, CI/CD, AWS |
+| **Tools & Cloud** | VS Code, Android Studio, Play Console, Firebase (Crashlytics, Analytics), Git/GitHub, CI/CD, AWS |
 | **Specialized Tech** | BLE, WebRTC, Sensors, Camera2, Admob, Meta SDK, Yandex |
 
 ---
