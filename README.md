@@ -1,5 +1,5 @@
 # Hi there, I'm Muhammad Hafeez 👋
-### Senior Android Developer / Mobile Software Engineer based in Qatar 🇶🇦
+### Full Stack Developer / AI Engineer / Senior Android Developer / Mobile Software Engineer based in Qatar 🇶🇦
 
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-hafeez-751172250"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
