@@ -35,7 +35,7 @@ I am a Qatar-based Senior Android Developer with **6+ years of experience** in d
 ## 🚀 Professional Experience
 
 ### 🏢 TapOne Studio (Jauharabad, Pakistan)
-**Project Manager Android Team** | *2024 – 2026*
+**Product Manager Android Team** | *2024 – 2026*
 - Led Android feature delivery from planning through to successful production deployment.
 - Supported live production systems, investigated live incidents, and resolved critical architectural bugs.
 - Performed rigorous troubleshooting using logs, debugging tools, and production monitoring practices.
