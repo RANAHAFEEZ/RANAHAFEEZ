@@ -61,7 +61,12 @@ I am a Qatar-based Senior Android Developer with **6+ years of experience** in d
 * 🌍 Worked with multiple **international clients** across finance, utilities, e-commerce, and custom mobile solutions.
 
 ---
-
+## 🔥 AI Projects 
+* 🗺️ **[Multi-Modal-AI-Knowledge-Agent](https://github.com/RANAHAFEEZ/Multi-Modal-AI-Knowledge-Agent)**
+  * *Enterprise AI Knowledge Agent is a production-grade Retrieval-Augmented Generation (RAG) system designed for intelligent document processing and semantic search. Built with modern cloud-native technologies, it seamlessly scales from local development to enterprise Azure deployments.
+* 🗺️ **[DocumentDataFetcher](https://github.com/RANAHAFEEZ/DocumentDataFetcher)**
+  * *DocumentDataFetcher is a powerful Retrieval-Augmented Generation (RAG) system designed to intelligently extract, process, and retrieve information from PDF documents. It combines modern NLP techniques with vector databases to enable sophisticated semantic search and conversational AI capabilities.
+  
 ## 🔥 Live Projects (Google Play Store)
 
 Here are some of my top published applications available live on the Play Store:
